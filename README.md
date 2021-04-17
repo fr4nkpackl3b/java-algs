@@ -1,1 +1,1 @@
-# Brute Force Algorithms in Java
+# Java Algorithms
